@@ -16,7 +16,11 @@
 
 - **IMAGE**
 
-![TODOLLIST!](https://github.com/hopnguyen123/Web_shopee_Frontend/blob/master/image/shope_p6.png)
+![TODOLLIST!](https://github.com/hopnguyen123/TodoList_Django/blob/main/image/5-todolist-UPGRADE-1.png)
+![TODOLLIST!](https://github.com/hopnguyen123/TodoList_Django/blob/main/image/5-todolist-UPGRADE-2.png)
+![TODOLLIST!](https://github.com/hopnguyen123/TodoList_Django/blob/main/image/5-todolist-UPGRADE-3.png)
+![TODOLLIST!](https://github.com/hopnguyen123/TodoList_Django/blob/main/image/5-todolist-UPGRADE-4.png)
+![TODOLLIST!](https://github.com/hopnguyen123/TodoList_Django/blob/main/image/5-todolist-UPGRADE-5.png)
 
 
 
